@@ -1,16 +1,97 @@
-## Hi there 👋
+# Kai El | VoIPMonk
 
-<!--
-**shido6/shido6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Systems Architect · Telecommunications · AI Infrastructure · Open Source**
 
-Here are some ideas to get you started:
+> Instead of trying to optimize across millions of possibilities, optimize across today + the next signal.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build systems that heal themselves and help you burn less money.
+
+I do the needful, eliminate unnecessary complexity, and show you how to do it yourself.
+
+**Systems that recover. Infrastructure that costs less. Knowledge that stays with you.**
+
+I've been reverse engineering systems since the home-computing era and working professionally in telecommunications since 2001. My work spans voice infrastructure, open-source engineering, AI-assisted operations, and local-first computing.
+
+I believe technology should make people more capable and independent, not permanently dependent on the people who built it.
+
+## What I Do
+
+- **Systems Architecture & Reverse Engineering** — Understand the complete system, identify the actual failure point, and engineer practical solutions.
+- **Telecommunications & VoIP** — Asterisk, FreePBX, SIP/RTP, dialplans, signaling, carrier interconnects, and production voice systems.
+- **Self-Healing Infrastructure** — Automation, observability, fault diagnosis, recovery workflows, and reducing recurring operational costs.
+- **AI-Assisted Engineering** — Turning natural-language intent, logs, traces, and system state into actionable diagnostics and controlled changes.
+- **Local-First AI & Agent Orchestration** — Self-hosted models, specialist agents, persistent project context, and human-supervised automation.
+- **Knowledge Transfer** — Solve the problem, document the solution, and leave you better equipped to maintain it yourself.
+
+## Current Projects
+
+### EchoGuard — Telecommunications Intelligence
+
+Developing tools for AI-assisted VoIP diagnostics, infrastructure visibility, and controlled operational automation.
+
+The objective: help operators understand what their systems are doing, find the real cause of failures, and resolve problems with greater confidence.
+
+- Website: [echoguard.ca](https://www.echoguard.ca)
+- VoIP: [voip.echoguard.ca](https://voip.echoguard.ca)
+- EchoGuard FreePBX connector: [echoguard-freepbx](https://github.com/shido6/echoguard-freepbx)
+
+### Batcomputer — AI-Assisted Engineering
+
+Exploring a local-first environment for orchestrating AI agents, maintaining project context, coordinating specialist workflows, and keeping humans in control of the work.
+
+The aim is practical continuity: systems that can make progress, document their work, and recover context without requiring a human to supervise every keystroke.
+
+### Open-Source Telecommunications
+
+Building and exploring practical tools for voice infrastructure, PBX operations, diagnostics, backup management, and AI-enabled communications.
+
+Browse the [repositories](https://github.com/shido6?tab=repositories) for current code and project details.
+
+## Ask Me About
+
+- Asterisk, FreePBX, SIP signaling, and complex VoIP troubleshooting
+- Telecommunications architecture, migrations, and carrier integration
+- AI-assisted root-cause analysis and operational automation
+- Self-hosted LLMs and AI-agent workflows
+- Infrastructure resilience, observability, and cost reduction
+- Reverse engineering and making complex systems understandable
+
+## Consulting & Collaboration
+
+Have a stubborn production issue, an overcomplicated system, or infrastructure that costs more than it should?
+
+I work at the intersection of telecommunications, systems engineering, and AI-assisted operations.
+
+My approach is straightforward:
+
+1. Understand the system.
+2. Find the signal that matters.
+3. Fix the underlying problem.
+4. Automate where it makes sense.
+5. Document the result and transfer the knowledge.
+
+For consulting, troubleshooting, architecture reviews, and collaboration:
+
+- [EchoGuard](https://www.echoguard.ca)
+- [S2 Insights](https://s2insights.cloud)
+
+## Support Independent Engineering
+
+Independent development takes time, compute, hosting, and infrastructure.
+
+Contributions help keep EchoGuard online and fund continued work on practical telecommunications tools, AI-assisted diagnostics, and open-source engineering.
+
+**Every contribution helps keep the work moving.**
+
+- **[Support EchoGuard](https://www.paypal.com/ncp/payment/PHMLAYL5R6MJY)**
+- **[Make a Contribution](https://www.paypal.com/ncp/payment/SBQGHXWD6FAG6)**
+
+Thank you for helping keep independent engineering alive.
+
+## Principles
+
+**Knowledge of Self · Human Uplift · Open Systems · Practical Engineering**
+
+Build systems that serve people. Reduce waste. Share what works. Leave things better than you found them.
+
+*Be well. Be light. Be free.*
