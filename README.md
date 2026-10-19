@@ -88,6 +88,23 @@ Contributions help keep EchoGuard online and fund continued work on practical te
 
 Thank you for helping keep independent engineering alive.
 
+
+## People I’m Supporting
+
+Sometimes life takes everything you have built and puts it beneath the water.
+
+I’ve been following this creator for a while. His boat sank, and he lost everything. He’s facing the difficult task of rebuilding from the ground up.
+
+I’m rebuilding parts of my own life, too. I may not have the resources to change his circumstances, but I can help make sure his story and his work reach more people.
+
+If you have a moment, watch his video. If his story resonates with you, consider sharing his work or supporting his rebuild.
+
+Every connection counts. Every share can open a door.
+
+- **[Watch his story on YouTube](https://youtu.be/PhtNCtWuiZA)**
+
+Sometimes rebuilding starts with one person deciding not to look away.
+
 ## Principles
 
 **Knowledge of Self · Human Uplift · Open Systems · Practical Engineering**
