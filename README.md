@@ -31,8 +31,8 @@ Developing tools for AI-assisted VoIP diagnostics, infrastructure visibility, an
 
 The objective: help operators understand what their systems are doing, find the real cause of failures, and resolve problems with greater confidence.
 
-- Website: [echoguard.ca](https://www.echoguard.ca)
-- VoIP: [voip.echoguard.ca](https://voip.echoguard.ca)
+- Website: [echoguard.s2insights.cloud](https://echoguard.s2insights.cloud)
+- VoIP: [voip.s2insights.cloud](https://voip.s2insights.cloud)
 - EchoGuard FreePBX connector: [echoguard-freepbx](https://github.com/shido6/echoguard-freepbx)
 
 ### Batcomputer — AI-Assisted Engineering
@@ -72,7 +72,7 @@ My approach is straightforward:
 
 For consulting, troubleshooting, architecture reviews, and collaboration:
 
-- [EchoGuard](https://www.echoguard.ca)
+- [EchoGuard](https://echoguard.s2insights.cloud)
 - [S2 Insights](https://s2insights.cloud)
 
 ## Support Independent Engineering
